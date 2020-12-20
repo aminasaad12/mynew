@@ -1,0 +1,14 @@
+﻿Build started 13-Jun-19 1:39:27 PM.
+     1>Project "E:\C++\array c++\array c++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\c++\array c++\source.cpp(7): error C2059: syntax error : 'bad suffix on number'
+     1>e:\c++\array c++\source.cpp(8): error C2146: syntax error : missing ';' before identifier 'p'
+     1>e:\c++\array c++\source.cpp(8): error C2065: 'p' : undeclared identifier
+     1>e:\c++\array c++\source.cpp(8): error C2143: syntax error : missing ';' before 'for'
+     1>Done Building Project "E:\C++\array c++\array c++.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.40
